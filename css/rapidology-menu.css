@@ -1,0 +1,12 @@
+@font-face {
+	font-family: 'rapidology-cirlogo';
+	src:url('fonts/rapidology-cirlogo.eot?ma7dc9');
+	src:url('fonts/rapidology-cirlogo.eot?#iefixma7dc9') format('embedded-opentype'),
+		url('fonts/rapidology-cirlogo.woff?ma7dc9') format('woff'),
+		url('fonts/rapidology-cirlogo.ttf?ma7dc9') format('truetype'),
+		url('fonts/rapidology-cirlogo.svg?ma7dc9#rapidology-cirlogo') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+#adminmenu #toplevel_page_rad_rapidology_options div.wp-menu-image:before { font-family: rapidology-cirlogo !important; content:"\e601"; font-size: 20px !important; }

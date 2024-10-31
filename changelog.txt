@@ -1,0 +1,26 @@
+
+Version 1.2.3
+-	Added a check for the rad_rapidology class on the body tag on window.load to keep the css from blowing up
+Version 1.2.2
+
+-	Bug fix in Active Campaign integration. Active Campaign form validation was breaking.
+Version 1.2.1
+
+-	Bug fixes for Rapidology updater 1.2
+
+
+Version 1.2
+-	Added Salesforce Campaign intergration
+-	Added Hubspot Forms integration
+-	Added Active Campaign Forms integration
+-	Added onclick intent
+-	Added MailChimp double optin suppresion
+-	Added 10 new predefined layout
+Version 1.1
+-    Added Emma integration
+-    Added Hubspot integration
+-    Added 10 new predefined templates
+-    Upgraded all images used in templates / removed all old images
+-    Fixed issue with Infusionsoft integration to optin contacts in automaticlly.
+version 1.0
+- Initial Release.
